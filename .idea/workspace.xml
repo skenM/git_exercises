@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91765467-98fc-42c1-a9da-6b786f1bbfb2" name="Default Changelist" comment="" />
+    <list default="true" id="91765467-98fc-42c1-a9da-6b786f1bbfb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,11 +28,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HelloWorld.py" />
   </component>
-  <component name="RunManager">
-    <configuration name="hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git_cwiczenia" />
+  <component name="RunManager" selected="Python.FizzBuzz">
+    <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -41,7 +43,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello_world.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FizzBuzz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git_exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="git_exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,7 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hello_world" />
+        <item itemvalue="Python.FizzBuzz" />
+        <item itemvalue="Python.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -70,34 +115,54 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="141" y="27" width="1084" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584806346299">
+    <state x="141" y="27" width="1084" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584821778577">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state x="141" y="27" width="1084" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.694@0.27.1366.694" timestamp="1584806346299" />
-    <state x="466" y="132" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584804525407">
+    <state x="141" y="27" width="1084" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.694@0.27.1366.694" timestamp="1584821778577" />
+    <state x="357" y="27" width="642" height="694" key="#hello_world" timestamp="1584820928617">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state x="466" y="132" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.694@0.27.1366.694" timestamp="1584804525407" />
-    <state width="1343" height="160" key="GridCell.Tab.0.bottom" timestamp="1584814045560">
+    <state x="357" y="27" width="642" height="694" key="#hello_world/0.27.1366.694@0.27.1366.694" timestamp="1584820928617" />
+    <state x="466" y="132" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584821398692">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1343" height="160" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1584814045560" />
-    <state width="1343" height="160" key="GridCell.Tab.0.center" timestamp="1584814045560">
+    <state x="466" y="132" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.694@0.27.1366.694" timestamp="1584821398692" />
+    <state width="1343" height="160" key="GridCell.Tab.0.bottom" timestamp="1584822776425">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1343" height="160" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1584814045560" />
-    <state width="1343" height="160" key="GridCell.Tab.0.left" timestamp="1584814045559">
+    <state width="1343" height="160" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1584822776425" />
+    <state width="1343" height="160" key="GridCell.Tab.0.center" timestamp="1584822776424">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1343" height="160" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1584814045559" />
-    <state width="1343" height="160" key="GridCell.Tab.0.right" timestamp="1584814045560">
+    <state width="1343" height="160" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1584822776424" />
+    <state width="1343" height="160" key="GridCell.Tab.0.left" timestamp="1584822776424">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1343" height="160" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1584814045560" />
-    <state x="339" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1584811866924">
+    <state width="1343" height="160" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1584822776424" />
+    <state width="1343" height="160" key="GridCell.Tab.0.right" timestamp="1584822776424">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state x="339" y="200" key="com.intellij.ide.util.TipDialog/0.27.1366.694@0.27.1366.694" timestamp="1584811866924" />
+    <state width="1343" height="160" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1584822776424" />
+    <state width="1343" height="200" key="GridCell.Tab.1.bottom" timestamp="1584822073882">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="200" key="GridCell.Tab.1.bottom/0.27.1366.694@0.27.1366.694" timestamp="1584822073882" />
+    <state width="1343" height="200" key="GridCell.Tab.1.center" timestamp="1584822073881">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="200" key="GridCell.Tab.1.center/0.27.1366.694@0.27.1366.694" timestamp="1584822073881" />
+    <state width="1343" height="200" key="GridCell.Tab.1.left" timestamp="1584822073881">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="200" key="GridCell.Tab.1.left/0.27.1366.694@0.27.1366.694" timestamp="1584822073881" />
+    <state width="1343" height="200" key="GridCell.Tab.1.right" timestamp="1584822073882">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="200" key="GridCell.Tab.1.right/0.27.1366.694@0.27.1366.694" timestamp="1584822073882" />
+    <state x="339" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1584822493742">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="339" y="200" key="com.intellij.ide.util.TipDialog/0.27.1366.694@0.27.1366.694" timestamp="1584822493742" />
     <state x="346" y="42" key="search.everywhere.popup" timestamp="1584806349437">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
